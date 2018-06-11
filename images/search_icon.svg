@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 87 100" class="mainIcon"><defs>
+	<style>.cls-1{fill:none;stroke-width:6px;stroke:url(#White_Black);}.cls-1,.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-2,.cls-3,.cls-4{stroke:#000;}.cls-2{fill:url(#White_Black-2);}.cls-3,.cls-4{stroke-width:0.5px;}.cls-3{fill:url(#White_Black-3);}.cls-4{fill:#d8d8d8;}.cls-5{fill:#1d1d1b;}
+		#details {
+	display: block;
+	}
+	@media screen and (max-width: 50px) {
+	#details {
+	display:none;
+	}
+	}
+	</style>
+	<linearGradient id="White_Black" y1="50" x2="87" y2="50" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#1d1d1b"/></linearGradient><linearGradient id="White_Black-2" x1="20.75" y1="40.8" x2="51.8" y2="40.8" xlink:href="#White_Black"/><linearGradient id="White_Black-3" x1="335.3" y1="148.22" x2="358.3" y2="148.22" xlink:href="#White_Black"/></defs><title>search_icon</title><g id="search_icon"><g id="rectangle"><rect class="cls-1" x="3" y="3" width="81" height="94" rx="12" ry="12"/></g><g id="outter_cicle"><circle class="cls-2" cx="36.27" cy="40.8" r="15.52"/></g><g id="handle"><path class="cls-3" d="M341.3,133.16c-1.06,4.23-2.67,4.72-6,4.63l18.25,25.5,4.75-5.5Z" transform="translate(-292.05 -81)"/></g><g id="details"><circle class="cls-4" cx="36.27" cy="40.8" r="13.8"/><path id="lens_reflexion" class="cls-5" d="M328.32,112.11c1.81-.07,3.78,1.21,5.81,3l.54-1.08s-4.15-4.36-5.56-3.69Z" transform="translate(-292.05 -81)"/><rect class="cls-5" x="340.88" y="143.69" width="7.55" height="1.56" transform="translate(-303.66 176.33) rotate(-40.32)"/><rect class="cls-5" x="342.76" y="146.44" width="7.55" height="1.56" transform="translate(-304.99 178.2) rotate(-40.32)"/></g></g></svg>

@@ -1,0 +1,83 @@
+
+/*mainCSS*/
+
+body
+{
+	background: url('../images/dust_scratches.png');
+}
+ul
+{
+	list-style-type: none;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+
+ul li
+{
+	display: inline;
+	padding-right: 40px;
+}
+object
+{
+	width: 10%;
+	height: 10%;
+}
+p
+{
+	font-family: 'Poor Story', Arial, cursive;
+	font-size: 14px;
+	
+}
+
+#container
+
+{
+	
+	margin:0 auto;
+}
+
+
+#mainHeader
+{
+	width: 960px;
+	height: 100px;
+	margin: 0 auto;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7d7e7d+0,0e0e0e+100;Black+3D */
+	background: #7d7e7d; /* Old browsers */
+	background: -moz-linear-gradient(left, #7d7e7d 0%, #0e0e0e 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, #7d7e7d 0%,#0e0e0e 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, #7d7e7d 0%,#0e0e0e 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=1 ); /* IE6-9 */
+}
+
+
+#mainHeader h2
+{
+	font-family: 'Lobster', Arial, cursive;
+	font-size: 40px;
+	text-align: center;
+	line-height: 100px;
+	color: #f2f2f2;
+}
+
+#iconTextContainer
+{
+	margin-left: 150px;
+}
+
+.iconText
+{
+	float: left;
+	margin-left: 60px;
+	width: 100px;
+	margin-bottom: 10px;
+}
+
+.clearfix:after
+{
+	content: " ";
+	visibility: hidden;
+	display:block;
+	height:0;
+	clear:both;
+}
