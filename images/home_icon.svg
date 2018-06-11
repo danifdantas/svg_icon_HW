@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 87 100"><defs><style>.cls-1{fill:none;stroke-width:6px;stroke:url(#White_Black);}.cls-1,.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-2,.cls-3,.cls-4{stroke:#1d1d1b;}.cls-2{fill:url(#White_Black-2);}.cls-3{fill:#ddd;}.cls-4{stroke-width:0.5px;fill:url(#White_Black-3);}</style><linearGradient id="White_Black" y1="50" x2="87" y2="50" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#1d1d1b"/></linearGradient><linearGradient id="White_Black-2" x1="28.63" y1="52.99" x2="57.63" y2="52.99" xlink:href="#White_Black"/><linearGradient id="White_Black-3" x1="52.08" y1="34.68" x2="55.83" y2="34.68" xlink:href="#White_Black"/></defs><title>home_icon</title><g id="Home_icon"><g id="rectangle"><rect class="cls-1" x="3" y="3" width="81" height="94" rx="12" ry="12"/></g><g id="home"><polygon class="cls-2" points="38.96 73 28.63 73 28.63 47.02 43.13 32.98 57.63 47.02 57.63 73 48.13 73 47.42 62.34 38.46 62.65 38.96 73"/><polygon class="cls-3" points="63.94 47.01 57.63 47.02 43.13 32.98 28.63 47.02 23.03 47.69 42.97 26.68 63.94 47.01"/></g><g id="chimney"><polyline class="cls-4" points="52.08 35.51 52.08 30.67 55.83 30.67 55.83 38.69"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 87 100"><defs><style>.cls-1{fill:none;stroke-width:6px;stroke:url(#White_Black);}.cls-1,.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-2,.cls-3,.cls-4{stroke:#1d1d1b;}.cls-2{fill:url(#White_Black-2);}.cls-3{fill:#ddd;}.cls-4{stroke-width:0.5px;fill:url(#White_Black-3);}
+.cls-1:hover{
+		display:block;
+		fill: black;
+		}
+		#chimney{
+		display: block;
+		}
+		@media screen and (max-width: 100px) {
+		#chimney{
+		display:none;
+		}
+		}
+</style><linearGradient id="White_Black" y1="50" x2="87" y2="50" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#1d1d1b"/></linearGradient><linearGradient id="White_Black-2" x1="28.63" y1="52.99" x2="57.63" y2="52.99" xlink:href="#White_Black"/><linearGradient id="White_Black-3" x1="52.08" y1="34.68" x2="55.83" y2="34.68" xlink:href="#White_Black"/></defs><title>home_icon</title><g id="Home_icon"><g id="rectangle"><rect class="cls-1" x="3" y="3" width="81" height="94" rx="12" ry="12"/></g><g id="home"><polygon class="cls-2" points="38.96 73 28.63 73 28.63 47.02 43.13 32.98 57.63 47.02 57.63 73 48.13 73 47.42 62.34 38.46 62.65 38.96 73"/><polygon class="cls-3" points="63.94 47.01 57.63 47.02 43.13 32.98 28.63 47.02 23.03 47.69 42.97 26.68 63.94 47.01"/></g><g id="chimney"><polyline class="cls-4" points="52.08 35.51 52.08 30.67 55.83 30.67 55.83 38.69"/></g></g></svg>

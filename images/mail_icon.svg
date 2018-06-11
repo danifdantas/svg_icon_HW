@@ -8,5 +8,9 @@
 	display:none;
 	}
 	}
+	.cls-1:hover{
+		display:block;
+		fill: black;
+		}
 	</style>
 	<linearGradient id="White_Black" y1="50" x2="87" y2="50" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#1d1d1b"/></linearGradient><linearGradient id="White_Black-2" x1="21.47" y1="52.68" x2="64.47" y2="52.68" xlink:href="#White_Black"/></defs><title>mail_icon</title><g id="mail_icon"><g id="rectangle"><rect class="cls-1" x="3" y="3" width="81" height="94" rx="12" ry="12"/></g><g id="mail"><rect class="cls-2" x="21.47" y="33" width="43" height="39.37"/></g><g id="details"><rect class="cls-3" x="51.47" y="54.37" width="4.13" height="10.5"/><line class="cls-4" x1="26.81" y1="57.33" x2="33.31" y2="57.33"/><line class="cls-4" x1="26.81" y1="59.25" x2="33.31" y2="59.25"/><line class="cls-4" x1="26.81" y1="61.42" x2="33.31" y2="61.42"/></g><g id="top_part"><path class="cls-5" d="M86.34,248l20.93,17.39h-.55c6.82-5.91,13.59-11.89,20.46-17.75l.31.84c-6.79,0-13.54-.05-20.38-.19Zm0,0,20.38-.28c6.87-.14,13.85-.16,20.78-.19h1.27l-1,.84c-6.79,5.95-13.69,11.77-20.54,17.66l-.28.24-.27-.24Z" transform="translate(-64.03 -215)"/></g></g></svg>
