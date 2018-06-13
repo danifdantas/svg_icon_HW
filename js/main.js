@@ -6,18 +6,14 @@
 
 
 var iconSet = document.querySelectorAll(".icons");
-console.log(iconSet);
+// console.log(iconSet);
 
-function i_am_a_function() {
-console.log("From i_am_a_function()");
 
-} // give a name that makes sense for a function
 
-window.addEventListener("load",i_am_a_function, false);
 
 function logLoaded(evt) {
-	//console.log("svg loaded");
-	//console.log(evt);
+	// console.log("svg loaded");
+	// console.log(evt);
 	var targetSVG = evt.currentTarget.contentDocument;
 	// console.log(targetSVG);
 	var theIcon = targetSVG.querySelector(".mainIcon");
