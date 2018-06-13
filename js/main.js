@@ -6,18 +6,18 @@
 
 
 var iconSet = document.querySelectorAll(".icons");
-// console.log(iconSet);
+console.log(iconSet);
 
 
 
 
 function logLoaded(evt) {
-	// console.log("svg loaded");
-	// console.log(evt);
+	console.log("svg loaded");
+	console.log(evt);
 	var targetSVG = evt.currentTarget.contentDocument;
-	// console.log(targetSVG);
+	console.log(targetSVG);
 	var theIcon = targetSVG.querySelector(".mainIcon");
-	// console.log(theIcon);
+	console.log(theIcon);
 	theIcon.addEventListener("click", logClicked, false);
 }
 function logClicked(evt) {
@@ -26,7 +26,7 @@ function logClicked(evt) {
 }
 
 for (var i = 0; i<iconSet.length; i++) {
-	// console.log(i);
+	console.log(i);
 	iconSet[i].addEventListener("load", logLoaded, false);
 	
 }
